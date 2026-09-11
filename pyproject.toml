@@ -1,0 +1,49 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rbsoftskkm"
+version = "1.27.0"
+description = "Коннектор Сервера ККМ: клиент REST API службы печати РБ-Софт"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+dependencies = ["httpx>=0.27"]
+
+[project.urls]
+Repository = "https://github.com/mnrwa/SKKMConnectorPython"
+
+[project.optional-dependencies]
+demo = ["PySide6>=6.6"]
+dev = ["mypy>=1.11", "ruff>=0.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+src = ["src", "demo", "tools"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B"]
+ignore = ["E501"]
+
+[tool.ruff.lint.per-file-ignores]
+# Имена полей и методов повторяют эталонную реализацию, а не PEP 8.
+"src/rbsoftskkm/**" = ["N"]
+"demo/examples/**" = ["N", "E402"]
+
+[tool.mypy]
+python_version = "3.12"
+files = ["src", "demo", "tools", "tests"]
+disallow_untyped_defs = true
+warn_unused_ignores = true
+warn_redundant_casts = true
+no_implicit_optional = true
+show_error_codes = true
+
+[[tool.mypy.overrides]]
+module = "demo.*"
+disallow_untyped_defs = false
