@@ -117,4 +117,4 @@ kkm.Timeout = timedelta(seconds=15)
 
 - [README.md](README.md) — все свойства, типы данных и варианты интеграции.
 - [API.md](API.md) — методы коннектора и эндпоинты REST API.
-- [READMEDemo.md](READMEDemo.md) — демо-приложение со 180 готовыми примерами.
+- [READMEDemo.md](READMEDemo.md) — демо-приложение со 182 готовыми примерами.

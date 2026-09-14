@@ -42,7 +42,1335 @@ class CheckSample29(Sample):
             ),
         )
 
-        
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Вода 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Хлеб",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Молоко 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
+
+        kkm.Positions.append(
+            FiscalLine(
+                Name="Сок 1л.",
+                Quantity=Decimal("1"),
+                Price=Decimal("1"),
+                Sum=Decimal("1.0"),
+                Tax="none",
+                TaxSum=Decimal("0"),
+                SignMethodCalculation=SignMethodCalculation.FullPayment,
+                SignCalculationObject=SignCalculationObject.Goods,
+                MeasureOfQuantity=MeasureOfQuantity.Piece,
+            ),
+        )
 
         kkm.Positions.append(
             FiscalLine(
